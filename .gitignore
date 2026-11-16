@@ -1,0 +1,7 @@
+.godot/
+*.tmp
+*.part
+*.import
+.DS_Store
+.env
+/cormak_assets/
